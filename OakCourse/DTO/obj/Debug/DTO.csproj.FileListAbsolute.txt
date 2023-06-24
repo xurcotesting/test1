@@ -1,0 +1,6 @@
+C:\Users\siqim\source\repos\OakCourse\DTO\bin\Debug\DTO.dll
+C:\Users\siqim\source\repos\OakCourse\DTO\bin\Debug\DTO.pdb
+C:\Users\siqim\source\repos\OakCourse\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\siqim\source\repos\OakCourse\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\siqim\source\repos\OakCourse\DTO\obj\Debug\DTO.dll
+C:\Users\siqim\source\repos\OakCourse\DTO\obj\Debug\DTO.pdb

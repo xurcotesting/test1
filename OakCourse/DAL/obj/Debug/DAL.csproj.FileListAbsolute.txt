@@ -1,0 +1,14 @@
+C:\Users\siqim\source\repos\OakCourse\DAL\bin\Debug\DAL.dll
+C:\Users\siqim\source\repos\OakCourse\DAL\bin\Debug\DAL.pdb
+C:\Users\siqim\source\repos\OakCourse\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\siqim\source\repos\OakCourse\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\siqim\source\repos\OakCourse\DAL\obj\Debug\DAL.dll
+C:\Users\siqim\source\repos\OakCourse\DAL\obj\Debug\DAL.pdb
+C:\Users\siqim\source\repos\OakCourse\DAL\bin\Debug\DTO.dll
+C:\Users\siqim\source\repos\OakCourse\DAL\bin\Debug\DTO.pdb
+C:\Users\siqim\source\repos\OakCourse\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\siqim\source\repos\OakCourse\DAL\bin\Debug\DAL.dll.config
+C:\Users\siqim\source\repos\OakCourse\DAL\bin\Debug\EntityFramework.dll
+C:\Users\siqim\source\repos\OakCourse\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\siqim\source\repos\OakCourse\DAL\bin\Debug\EntityFramework.xml
+C:\Users\siqim\source\repos\OakCourse\DAL\bin\Debug\EntityFramework.SqlServer.xml
