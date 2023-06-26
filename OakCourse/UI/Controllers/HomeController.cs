@@ -16,7 +16,7 @@ namespace UI.Controllers
 
         public IActionResult Index()
         {
-            return RedirectToAction("Index","Login");
+            return View();
             
         }
 
