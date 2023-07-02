@@ -1,3 +1,5 @@
+using Microsoft.Extensions.FileProviders;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -20,6 +22,13 @@ app.UseRouting();
 
 app.UseAuthorization();
 
+app.UseStaticFiles(new StaticFileOptions()
+{
+    FileProvider = new
+     PhysicalFileProvider(Path.Combine(Directory.GetCurrentDirectory(),
+     "Areas\\Admin\\Content\\CSS")),
+    RequestPath = new PathString("/Admin/Content/CSS")
+});
 
 app.UseEndpoints(endpoints =>
 {

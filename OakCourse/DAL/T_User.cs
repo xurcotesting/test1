@@ -35,7 +35,7 @@ namespace DAL
     
         public int ID { get; set; }
         public string Username { get; set; }
-        public byte[] Password { get; set; }
+        public string Password { get; set; }
         public string Email { get; set; }
         public string NameSurname { get; set; }
         public string ImagePath { get; set; }
